@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ee5d6c&text=)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ee5d6c)
+##### Welcome my github profile!
 
 #  :santa:
 :mortar_board:
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 - Family : Mom, Dad, Sister
 # SNS
  :rose: <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_chaeeeun__/)
+:rose: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_chaeeeun__/)
 
 <a https://www.instagram.com/_chaeeeun__/="https://www.instagram.com/your-instagram-profile/">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge"/>
