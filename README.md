@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ee5d6c)
 #### 💗Welcome my github profile!💗
 
-#  🎄💝🎅🎁💝🎄
+# 🎄💝🎁🎅🎁💝🎄
 
 
 # :crown:About ME
@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 :swimmer:
 :ski:
 :mortar_board:
-# Playlist
-- Jennie - You & Me <a href="https://www.youtube.com/watch?v=ZSc-zcWl2g8" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
+# Playlist :headphones:
+- Jennie - You & Me <a href="https://www.youtube.com/watch?v=eQNHDV7lKgE" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
+- Jung kook - <a href="https://www.youtube.com/watch?v=UNo0TG9LwwI" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
 
