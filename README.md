@@ -1,9 +1,7 @@
 <div align="center">
  
-# Hi guys👋
+# 🤍Hi guys🤍
 
-💗
-🤍
 <!--
 **chaengni/chaengni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,22 +18,17 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ee5d6c)
-##### Welcome my github profile!
+#### 💗Welcome my github profile!💗
 
-#  :santa:
-:mortar_board:
-:gift_heart:
-:christmas_tree:
+#  🎄💝🎅🎁💝🎄
+
 
 # :crown:About ME
 - Birth date : March 10th, 2004
 - Height : 160cm
 - Family : Mom, Dad, Sister
 # SNS
- :rose: <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-:rose: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_chaeeeun__/)
-
-<a href="https://www.instagram.com/_chaeeeun__/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+ :rose:<a href="https://www.instagram.com/_chaeeeun__/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 
 
@@ -46,9 +39,17 @@ Here are some ideas to get you started:
 :mortar_board:
 :swimmer:
 :ski:
-
+:mortar_board:
 # Playlist
-Jennie - You & Me <img src="https://img.shields.io/badge/Apple Music-FA243C?style=flat-square&logo=music&logoColor=white"/>
+- Jennie - You & Me <a href="https://www.youtube.com/watch?v=ZSc-zcWl2g8" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
  
 ### MY favorite
 방탄소년단(BTS)
