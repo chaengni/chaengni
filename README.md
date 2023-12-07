@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi👋
 
 <!--
 **chaengni/chaengni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&color=bae1ff)
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&color=ffb3ba)
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&color=ee5d6c)
+#임티
+yellow_heart:
+star:
+star2:
