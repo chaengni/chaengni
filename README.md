@@ -1,4 +1,4 @@
-# Hi👋
+# <div align="center">Hi👋
 
 <!--
 **chaengni/chaengni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=bae1ff)
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffb3ba)
-![header](https://capsule-render.vercel.app/api?type=waving&color=ee5d6c)
-#임티
-# :star: About ME
-# :star2: About Me
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=ee5d6c&text=)
+
+# <div align="center">:crown:About ME
+- <div align="center">Birth date : March 10th, 2004
+- <div align="center">Height : 160cm
+- Family : Mom, Dad, Sister
+# <div align="center">SNS
+<div align="center"> :rose: <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+
+# The things i like
+ :strawberry:
+ :apple:
+ :icecream:
+ :santa:
+:gift:
+:mortar_board:
+:gift_heart:
+:christmas_tree:
+:swimmer:
+:ski:
+  
+# goal
+- :muscle: Diet Success
+- :page_with_curl: Get certified
