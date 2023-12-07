@@ -1,4 +1,6 @@
-# <div align="center">Hi👋
+<div align="center">
+ 
+# Hi guys👋
 
 <!--
 **chaengni/chaengni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,12 +19,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ee5d6c&text=)
 
-# <div align="center">:crown:About ME
-- <div align="center">Birth date : March 10th, 2004
-- <div align="center">Height : 160cm
-- <div align="center">Family : Mom, Dad, Sister
-# <div align="center">SNS
-<div align="center"> :rose: <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+# :crown:About ME
+- Birth date : March 10th, 2004
+- Height : 160cm
+- Family : Mom, Dad, Sister
+# SNS
+ :rose: <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 
 # The things i like
  :strawberry:
@@ -35,6 +37,10 @@ Here are some ideas to get you started:
 :christmas_tree:
 :swimmer:
 :ski:
+
+### MY favorite
+방탄소년단(BTS)
+![BTS Image](https://pbs.twimg.com/media/GAlbFyTaoAATxDN?format=jpg&name=small)
   
 # goal
 - :muscle: Diet Success
