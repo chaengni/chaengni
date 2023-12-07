@@ -2,6 +2,7 @@
  
 # Hi guys👋
 
+
 <!--
 **chaengni/chaengni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +20,11 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ee5d6c&text=)
 
+#  :santa:
+:mortar_board:
+:gift_heart:
+:christmas_tree:
+
 # :crown:About ME
 - Birth date : March 10th, 2004
 - Height : 160cm
@@ -30,14 +36,13 @@ Here are some ideas to get you started:
  :strawberry:
  :apple:
  :icecream:
- :santa:
-:gift:
 :mortar_board:
-:gift_heart:
-:christmas_tree:
 :swimmer:
 :ski:
 
+# Playlist
+Jennie - You & Me <img src="https://img.shields.io/badge/Apple Music-FA243C?style=flat-square&logo=music&logoColor=white"/>
+ 
 ### MY favorite
 방탄소년단(BTS)
 ![BTS Image](https://pbs.twimg.com/media/GAlbFyTaoAATxDN?format=jpg&name=small)
