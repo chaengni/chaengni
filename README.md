@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # <div align="center">:crown:About ME
 - <div align="center">Birth date : March 10th, 2004
 - <div align="center">Height : 160cm
-- Family : Mom, Dad, Sister
+- <div align="center">Family : Mom, Dad, Sister
 # <div align="center">SNS
 <div align="center"> :rose: <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 
