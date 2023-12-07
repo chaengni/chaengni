@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&color=bae1ff)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&color=ffb3ba)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&color=ee5d6c)
