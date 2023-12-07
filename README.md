@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&color=bae1ff)
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&color=ffb3ba)
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&color=ee5d6c)
+![header](https://capsule-render.vercel.app/api?type=waving&color=bae1ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffb3ba)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ee5d6c)
 #임티
-yellow_heart:
-star:
-star2:
+# :star: About ME
+# :star2: About Me
