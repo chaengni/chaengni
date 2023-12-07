@@ -2,7 +2,8 @@
  
 # Hi guys👋
 
-
+💗
+🤍
 <!--
 **chaengni/chaengni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,9 +35,9 @@ Here are some ideas to get you started:
  :rose: <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 :rose: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_chaeeeun__/)
 
-<a https://www.instagram.com/_chaeeeun__/="https://www.instagram.com/your-instagram-profile/">
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
+<a href="https://www.instagram.com/_chaeeeun__/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+
+
 
 # The things i like
  :strawberry:
