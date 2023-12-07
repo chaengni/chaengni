@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - Jung kook - <a href="https://www.youtube.com/watch?v=UNo0TG9LwwI" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
+- Sam smith <a href="" target="https://www.youtube.com/watch?v=SGAdW9LCu3g"_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
 
