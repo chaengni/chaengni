@@ -33,28 +33,21 @@ Here are some ideas to get you started:
 
 
 # The things i like
- :strawberry:
- :apple:
- :icecream:
-:mortar_board:
+:strawberry:
+:apple:
+:icecream:
 :swimmer:
-:ski:
-:mortar_board:
+
 # Playlist :headphones:
 - Jennie - You & Me <a href="https://www.youtube.com/watch?v=eQNHDV7lKgE" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
 
-- Jung kook - <a href="https://www.youtube.com/watch?v=UNo0TG9LwwI" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
+- Jung kook - Standing next you <a href="https://www.youtube.com/watch?v=UNo0TG9LwwI" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
 
-- Sam smith <a href="" target="https://www.youtube.com/watch?v=SGAdW9LCu3g"_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
+- Sam smith - Dancing With A Stranger <a href="https://www.youtube.com/watch?v=4v37EYc4nm4" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
-
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
+- Christina Perri - A Thousand Years <a href="https://www.youtube.com/watch?v=rtOvBOTyX00" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
  
-### MY favorite
-방탄소년단(BTS)
-![BTS Image](https://pbs.twimg.com/media/GAlbFyTaoAATxDN?format=jpg&name=small)
-  
 # goal
 - :muscle: Diet Success
 - :page_with_curl: Get certified
