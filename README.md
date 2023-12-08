@@ -24,7 +24,7 @@
 # Playlist :headphones:
 - Jennie - You & Me <a href="https://www.youtube.com/watch?v=eQNHDV7lKgE" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
 
-- Jung kook - Standing next you <a href="https://www.youtube.com/watch?v=UNo0TG9LwwI" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
+- 정국(Jung Kook) - Standing Next to You <a href="https://www.youtube.com/watch?v=UNo0TG9LwwI" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
 
 - Sam smith - Dancing With A Stranger <a href="https://www.youtube.com/watch?v=4v37EYc4nm4" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
 
