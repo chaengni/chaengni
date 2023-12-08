@@ -2,7 +2,7 @@
  
 # 🤍Hi guys🤍
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ee5d6c)
-#### 💗Welcome my github profile!💗
+### 💗Welcome my github profile!💗
 # 🎄💝🎁🎅🎁💝🎄
 
 # :crown:About ME
@@ -32,5 +32,5 @@
 - Charlie Puth - Does It Feel <a href="https://www.youtube.com/watch?v=1Fgzc8nyWr4" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
  
 # goal
-- :muscle: Diet Success
-- :page_with_curl: Get certified
+- :muscle:Diet Success
+- :page_with_curl:Get certified
