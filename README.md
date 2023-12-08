@@ -2,7 +2,7 @@
  
 # 🤍Hi guys🤍
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ee5d6c)
-### 💗Welcome my github profile!💗
+## 💗Welcome my github profile!💗
 # 🎄💝🎁🎅🎁💝🎄
 
 # :crown:About ME
