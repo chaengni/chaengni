@@ -7,8 +7,9 @@
 
 # :crown:About ME
 - Birth date : March 10th, 2004
-- Height : 160cm
 - Family : Mom, Dad, Sister
+- Height : 160cm
+- MBTI : ISFP
 
 # The things i like
 :strawberry:
