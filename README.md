@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 :strawberry:
 :apple:
 :icecream:
+:tulip:
 :swimmer:
+:ocean:
 
 # Playlist :headphones:
 - Jennie - You & Me <a href="https://www.youtube.com/watch?v=eQNHDV7lKgE" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>
